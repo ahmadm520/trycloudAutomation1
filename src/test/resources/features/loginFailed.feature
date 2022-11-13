@@ -1,4 +1,4 @@
-Feature: As a user, I should be able to login to TryCloud app
+Feature: As a user, I should not be able to login to TryCloud app
 
   @invalid
 Scenario Outline: verify user login fail with invalid credentials "<username>"
